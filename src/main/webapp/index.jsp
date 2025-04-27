@@ -5,13 +5,13 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Example</title>
     </head>
-    <body bgcolor="silver">
+    <body bgcolor="pink">
         <form method="post" action="login.jsp">
             <center>
             <table border="0" width="30%" cellpadding="3">
                 <thead>
                     <tr>
-                        <th colspan="2">Login Page for user on 20/08/23</th>
+                        <th colspan="2">Login Page for user on 27-04-2025</th>
                     </tr>
                 </thead>
                 <tbody>
